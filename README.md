@@ -1,4 +1,4 @@
-# expensive TTN mapper
+# draguino TTN mapper
 
 This repository contains the code for the Arduino UNO with the Draguino Lora GPS shield. It is meant as a mobile hardware for ttn mapper.
 For this device to work there are a few more things to do to get the data on ttn mapper web site. Plese, folow the instruction on the ttn mapper website.
